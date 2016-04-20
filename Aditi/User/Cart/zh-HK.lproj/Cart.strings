@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "Delivery Address"; ObjectID = "08S-Es-jhj"; */
+"08S-Es-jhj.text" = "送貨地址";
+
+/* Class = "UILabel"; text = "Delivery Date"; ObjectID = "2cw-3W-juU"; */
+"2cw-3W-juU.text" = "送貨日期";
+
+/* Class = "UITextField"; placeholder = "Delivery Time"; ObjectID = "444-f7-Myw"; */
+"444-f7-Myw.placeholder" = "送貨時間";
+
+/* Class = "UILabel"; text = "2020-05-20"; ObjectID = "7SE-fi-5fH"; */
+"7SE-fi-5fH.text" = "2020-05-20";
+
+/* Class = "UILabel"; text = "Coupon"; ObjectID = "8ZC-KL-FA9"; */
+"8ZC-KL-FA9.text" = "優惠碼";
+
+/* Class = "UILabel"; text = "Delivery Time"; ObjectID = "EDB-4X-CJ2"; */
+"EDB-4X-CJ2.text" = "送貨時間";
+
+/* Class = "UITextField"; placeholder = "Delivery Date"; ObjectID = "Fd9-24-hml"; */
+"Fd9-24-hml.placeholder" = "送貨日期";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "G9b-Ku-ToT"; */
+"G9b-Ku-ToT.normalTitle" = "確認";
+
+/* Class = "UILabel"; text = " asda sdasd asd asda dasd "; ObjectID = "Ojh-lG-imh"; */
+"Ojh-lG-imh.text" = " asda sdasd asd asda dasd ";
+
+/* Class = "UILabel"; text = "$12"; ObjectID = "PWr-bu-krr"; */
+"PWr-bu-krr.text" = "$12";
+
+/* Class = "UILabel"; text = "02.30"; ObjectID = "R7C-RK-ayZ"; */
+"R7C-RK-ayZ.text" = "02.30";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "Rhr-LM-OUq"; */
+"Rhr-LM-OUq.normalTitle" = "更改";
+
+/* Class = "UILabel"; text = "Delivery will arrive in one hour."; ObjectID = "RnU-lN-atf"; */
+"RnU-lN-atf.text" = "Delivery will arrive in one hour.";
+
+/* Class = "UILabel"; text = "Order Total"; ObjectID = "W2j-29-Zz0"; */
+"W2j-29-Zz0.text" = "訂單總額";
+
+/* Class = "UILabel"; text = "Product"; ObjectID = "WQO-1g-4or"; */
+"WQO-1g-4or.text" = "產品";
+
+/* Class = "UILabel"; text = "$12"; ObjectID = "Z40-mg-QDW"; */
+"Z40-mg-QDW.text" = "$12";
+
+/* Class = "UILabel"; text = "Sub Total"; ObjectID = "bQd-Dg-u1I"; */
+"bQd-Dg-u1I.text" = "小計";
+
+/* Class = "UILabel"; text = "a sdas das das dasd"; ObjectID = "fZj-RC-FCW"; */
+"fZj-RC-FCW.text" = "a sdas das das dasd";
+
+/* Class = "UILabel"; text = "$ 286"; ObjectID = "mQo-qM-Nvs"; */
+"mQo-qM-Nvs.text" = "$ 286";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "mxr-gD-HW3"; */
+"mxr-gD-HW3.normalTitle" = "確定";
+
+/* Class = "UILabel"; text = "$ 286"; ObjectID = "qiY-1L-Smd"; */
+"qiY-1L-Smd.text" = "$ 286";
+
+/* Class = "UITextField"; placeholder = "Add Coupon Code"; ObjectID = "rKm-ni-Ld9"; */
+"rKm-ni-Ld9.placeholder" = "新增優惠碼";
+
+/* Class = "UILabel"; text = "Order Total"; ObjectID = "tcv-D0-gAr"; */
+"tcv-D0-gAr.text" = "訂單總額";

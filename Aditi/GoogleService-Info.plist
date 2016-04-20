@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>918434225491-ct50bgckqrhvjeqg8fvbif8uais122el.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.918434225491-ct50bgckqrhvjeqg8fvbif8uais122el</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>918434225491-b3mc24uganpdcqq04g9s12vfrb7i75fa.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCiIWLNNh-bZhzK3pywF5lXMczp6m92B50</string>
+	<key>GCM_SENDER_ID</key>
+	<string>918434225491</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>PROJECT_ID</key>
+	<string>project-aditi-48c34</string>
+	<key>STORAGE_BUCKET</key>
+	<string>project-aditi-48c34.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:918434225491:ios:0dbb339db9e70793a195a6</string>
+	<key>DATABASE_URL</key>
+	<string>https://project-aditi-48c34.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="52" id="aeG-tC-5Jn" customClass="CityCheckCell" customModule="AditiAdmin" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="52"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="aeG-tC-5Jn" id="XP6-yE-OQd">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="52"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="abl-pF-ouG">
+                        <rect key="frame" x="20" y="14" width="78" height="24"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gio-to-LC3" customClass="CheckBox" customModule="AditiAdmin" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="0.0" width="24" height="24"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="24" id="6V5-jX-nWE"/>
+                                    <constraint firstAttribute="width" constant="24" id="gzV-aJ-mN5"/>
+                                </constraints>
+                                <connections>
+                                    <action selector="onSelectCity:" destination="aeG-tC-5Jn" eventType="valueChanged" id="D7b-8s-2Pq"/>
+                                </connections>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="A59-JZ-QVq">
+                                <rect key="frame" x="24" y="0.0" width="12" height="24"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="12" id="BPA-ro-8Zm"/>
+                                    <constraint firstAttribute="height" constant="24" id="sFg-3b-2Vo"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cge-ao-vjr">
+                                <rect key="frame" x="36" y="0.0" width="42" height="24"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                    </stackView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="abl-pF-ouG" firstAttribute="leading" secondItem="XP6-yE-OQd" secondAttribute="leading" constant="20" id="ZtD-GJ-SKQ"/>
+                    <constraint firstItem="abl-pF-ouG" firstAttribute="centerY" secondItem="XP6-yE-OQd" secondAttribute="centerY" id="wgA-2O-4u2"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="checkbox" destination="gio-to-LC3" id="VnW-by-HXT"/>
+                <outlet property="name" destination="cge-ao-vjr" id="nOs-zW-ett"/>
+            </connections>
+            <point key="canvasLocation" x="44.927536231884062" y="64.285714285714278"/>
+        </tableViewCell>
+    </objects>
+</document>

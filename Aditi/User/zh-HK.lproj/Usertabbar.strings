@@ -1,0 +1,162 @@
+
+/* Class = "UITabBarItem"; title = "Discount"; ObjectID = "0Cj-Xn-B7G"; */
+"0Cj-Xn-B7G.title" = "優惠";
+
+/* Class = "UILabel"; text = "Cart"; ObjectID = "0Es-w3-U4l"; */
+"0Es-w3-U4l.text" = "購物車";
+
+/* Class = "UILabel"; text = "$ 56"; ObjectID = "0RK-rG-pUj"; */
+"0RK-rG-pUj.text" = "$ 56";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "0Uz-tq-7pc"; */
+"0Uz-tq-7pc.text" = "0";
+
+/* Class = "UILabel"; text = "Lorem ipsum"; ObjectID = "0p9-Sq-TWb"; */
+"0p9-Sq-TWb.text" = "Lorem ipsum";
+
+/* Class = "UILabel"; text = "Region"; ObjectID = "0rr-mT-LM5"; */
+"0rr-mT-LM5.text" = "地區";
+
+/* Class = "UILabel"; text = "102"; ObjectID = "3vV-Wm-uXP"; */
+"3vV-Wm-uXP.text" = "102";
+
+/* Class = "UILabel"; text = "150"; ObjectID = "4do-OQ-Mtk"; */
+"4do-OQ-Mtk.text" = "150";
+
+/* Class = "UILabel"; text = "Cart"; ObjectID = "5kH-DP-Qar"; */
+"5kH-DP-Qar.text" = "購物車";
+
+/* Class = "UITabBarItem"; title = "Order"; ObjectID = "6RR-oY-z94"; */
+"6RR-oY-z94.title" = "訂單";
+
+/* Class = "UILabel"; text = "用心製作不只是 用心製作不只是 用心製作不只是用心製作不只是用心製作不只是"; ObjectID = "9W4-Nh-6wg"; */
+"9W4-Nh-6wg.text" = "用心製作不只是 用心製作不只是 用心製作不只是用心製作不只是用心製作不只是";
+
+/* Class = "UITextField"; placeholder = "xyz"; ObjectID = "AYR-e5-dC3"; */
+"AYR-e5-dC3.placeholder" = "xyz";
+
+/* Class = "UITextField"; placeholder = "Enter email address here"; ObjectID = "AaQ-sy-c9k"; */
+"AaQ-sy-c9k.placeholder" = "請輸入電子電郵";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "ApL-Xh-FAH"; */
+"ApL-Xh-FAH.text" = "$";
+
+/* Class = "UILabel"; text = "102"; ObjectID = "CIt-oI-iJi"; */
+"CIt-oI-iJi.text" = "102";
+
+/* Class = "UILabel"; text = "$ 188"; ObjectID = "E1a-o9-NYO"; */
+"E1a-o9-NYO.text" = "$ 188";
+
+/* Class = "UITextField"; placeholder = "1234567890"; ObjectID = "EeR-Ek-p0A"; */
+"EeR-Ek-p0A.placeholder" = "1234567890";
+
+/* Class = "UILabel"; text = "102"; ObjectID = "F36-dR-s5U"; */
+"F36-dR-s5U.text" = "102";
+
+/* Class = "UILabel"; text = "用心製作不只是 用心製作不只是 用心製作不只是用心製作不只是用心製作不只是"; ObjectID = "FEH-0f-jTU"; */
+"FEH-0f-jTU.text" = "用心製作不只是 用心製作不只是 用心製作不只是用心製作不只是用心製作不只是";
+
+/* Class = "UILabel"; text = "102"; ObjectID = "HKg-vv-zOd"; */
+"HKg-vv-zOd.text" = "102";
+
+/* Class = "UILabel"; text = "$ 188"; ObjectID = "I0e-s7-gcG"; */
+"I0e-s7-gcG.text" = "$ 188";
+
+/* Class = "UITextField"; placeholder = "Enter address here"; ObjectID = "IMu-Wd-ego"; */
+"IMu-Wd-ego.placeholder" = "輸入地址";
+
+/* Class = "UIButton"; normalTitle = "Add to Cart"; ObjectID = "Jyw-5g-D2g"; */
+"Jyw-5g-D2g.normalTitle" = "加入購物車";
+
+/* Class = "UILabel"; text = "150"; ObjectID = "KuR-K1-BrQ"; */
+"KuR-K1-BrQ.text" = "150";
+
+/* Class = "UILabel"; text = "$ 188"; ObjectID = "L07-ZJ-rHS"; */
+"L07-ZJ-rHS.text" = "$ 188";
+
+/* Class = "UILabel"; text = "用心製作不只是"; ObjectID = "LO9-Jy-YXO"; */
+"LO9-Jy-YXO.text" = "用心製作不只是";
+
+/* Class = "UIViewController"; title = "Delivery address"; ObjectID = "Oru-MK-Bsf"; */
+"Oru-MK-Bsf.title" = "送貨地址";
+
+/* Class = "UILabel"; text = "$ 188"; ObjectID = "P8V-2J-A8q"; */
+"P8V-2J-A8q.text" = "$ 188";
+
+/* Class = "UILabel"; text = "Lorem Ipsum"; ObjectID = "PvA-8r-wb5"; */
+"PvA-8r-wb5.text" = "Lorem Ipsum";
+
+/* Class = "UILabel"; text = "用心製作不只是"; ObjectID = "QPz-mo-L8B"; */
+"QPz-mo-L8B.text" = "用心製作不只是";
+
+/* Class = "UILabel"; text = "$ 56"; ObjectID = "Qzz-1r-htu"; */
+"Qzz-1r-htu.text" = "$ 56";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "R7I-Mw-2nr"; */
+"R7I-Mw-2nr.text" = "地區";
+
+/* Class = "UILabel"; text = "Cart"; ObjectID = "VhS-p4-ozt"; */
+"VhS-p4-ozt.text" = "購物車";
+
+/* Class = "UITextField"; placeholder = "Enter username here"; ObjectID = "Vqe-zg-f7d"; */
+"Vqe-zg-f7d.placeholder" = "請輪入名稱";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "WKr-C2-JL2"; */
+"WKr-C2-JL2.normalTitle" = "確定";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Yrl-PO-JVp"; */
+"Yrl-PO-JVp.normalTitle" = "確定";
+
+/* Class = "UILabel"; text = "$ 188"; ObjectID = "bF3-9O-1MK"; */
+"bF3-9O-1MK.text" = "$ 188";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "bfI-to-AgL"; */
+"bfI-to-AgL.title" = "帳戶";
+
+/* Class = "UILabel"; text = "用心製作不只是"; ObjectID = "dgS-Yx-tfX"; */
+"dgS-Yx-tfX.text" = "用心製作不只是";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "h1k-fa-eFX"; */
+"h1k-fa-eFX.placeholder" = "地區";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "har-RC-MLL"; */
+"har-RC-MLL.text" = "地址";
+
+/* Class = "UILabel"; text = "Cart"; ObjectID = "hhR-V5-kdr"; */
+"hhR-V5-kdr.text" = "購物車";
+
+/* Class = "UILabel"; text = "Cart"; ObjectID = "jxg-Da-aBj"; */
+"jxg-Da-aBj.text" = "購物車";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "kGa-ed-8Yd"; */
+"kGa-ed-8Yd.text" = "用戶名稱";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "oFv-C7-Rb3"; */
+"oFv-C7-Rb3.text" = "電話號碼";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "oUJ-Zl-AEh"; */
+"oUJ-Zl-AEh.text" = "電子電郵";
+
+/* Class = "UILabel"; text = "用心製作不只是"; ObjectID = "r7Q-CG-EFO"; */
+"r7Q-CG-EFO.text" = "用心製作不只是";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rGs-av-tDF"; */
+"rGs-av-tDF.text" = "Label";
+
+/* Class = "UILabel"; text = "102"; ObjectID = "rs3-Zf-pa0"; */
+"rs3-Zf-pa0.text" = "102";
+
+/* Class = "UIViewController"; title = "Coupon Code"; ObjectID = "s8h-lQ-w92"; */
+"s8h-lQ-w92.title" = "優惠碼";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "sJK-7R-Nhz"; */
+"sJK-7R-Nhz.text" = "$";
+
+/* Class = "UIViewController"; title = "Account Setting"; ObjectID = "ykq-1J-VFo"; */
+"ykq-1J-VFo.title" = "帳戶";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "ypz-OD-RAG"; */
+"ypz-OD-RAG.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITabBarItem"; title = "Category"; ObjectID = "zMe-da-01L"; */
+"zMe-da-01L.title" = "類別";

@@ -1,0 +1,102 @@
+
+/* Class = "UILabel"; text = "Order #12345"; ObjectID = "0QN-uA-NJQ"; */
+"0QN-uA-NJQ.text" = "Order #12345";
+
+/* Class = "UILabel"; text = "Image"; ObjectID = "2af-lW-Qbc"; */
+"2af-lW-Qbc.text" = "圖片";
+
+/* Class = "UILabel"; text = "Coupon #12345"; ObjectID = "4n1-gQ-VJl"; */
+"4n1-gQ-VJl.text" = "Coupon #12345";
+
+/* Class = "UILabel"; text = "Description (optional)"; ObjectID = "5C2-qq-o7T"; */
+"5C2-qq-o7T.text" = "描述(可選)";
+
+/* Class = "UILabel"; text = "Coupon Code"; ObjectID = "7Hy-oo-rA4"; */
+"7Hy-oo-rA4.text" = "優惠碼";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "7VL-ix-9qp"; */
+"7VL-ix-9qp.text" = "類別";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BHQ-oG-3xv"; */
+"BHQ-oG-3xv.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "BRI-bQ-9x5"; */
+"BRI-bQ-9x5.placeholder" = "搜尋";
+
+/* Class = "UILabel"; text = "Discount"; ObjectID = "EGe-GW-Tmd"; */
+"EGe-GW-Tmd.text" = "優惠";
+
+/* Class = "UITextField"; placeholder = "Add City"; ObjectID = "GPv-tf-oTf"; */
+"GPv-tf-oTf.placeholder" = "新增地區";
+
+/* Class = "UITextField"; placeholder = "Enter Code"; ObjectID = "Gwz-Dj-Uh0"; */
+"Gwz-Dj-Uh0.placeholder" = "輸入代碼";
+
+/* Class = "UITextField"; placeholder = "Vanilla cake"; ObjectID = "H1d-hL-Ihn"; */
+"H1d-hL-Ihn.placeholder" = "Vanilla cake";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "HVy-R6-xAy"; */
+"HVy-R6-xAy.normalTitle" = "加";
+
+/* Class = "UILabel"; text = "Lorem Ipsum Lorem Ipsum Lorem Ipsum"; ObjectID = "JZS-Pj-D5g"; */
+"JZS-Pj-D5g.text" = "Lorem Ipsum Lorem Ipsum Lorem Ipsum";
+
+/* Class = "UITextField"; placeholder = "Enter Stock"; ObjectID = "KsF-Jp-Vmt"; */
+"KsF-Jp-Vmt.placeholder" = "輸入產品數量";
+
+/* Class = "UITextField"; placeholder = "Enter something"; ObjectID = "MnZ-Dy-hb8"; */
+"MnZ-Dy-hb8.placeholder" = "輸入內容";
+
+/* Class = "UILabel"; text = "Order #12345"; ObjectID = "SOm-JZ-Ify"; */
+"SOm-JZ-Ify.text" = "Order #12345";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "TEa-sB-Co0"; */
+"TEa-sB-Co0.text" = "價錢";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "a0D-V0-KJl"; */
+"a0D-V0-KJl.placeholder" = "搜尋";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "aK4-oF-mDe"; */
+"aK4-oF-mDe.text" = "活動時間";
+
+/* Class = "UITextField"; placeholder = "Enter price"; ObjectID = "akU-qJ-jn3"; */
+"akU-qJ-jn3.placeholder" = "輸入價錢";
+
+/* Class = "UILabel"; text = "2020/05/30"; ObjectID = "cNv-Zu-HUf"; */
+"cNv-Zu-HUf.text" = "2020/05/30";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "dpw-HB-qP9"; */
+"dpw-HB-qP9.normalTitle" = "確定";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "fcg-qy-Zgc"; */
+"fcg-qy-Zgc.placeholder" = "搜尋";
+
+/* Class = "UILabel"; text = "Stock"; ObjectID = "gz7-5F-7IP"; */
+"gz7-5F-7IP.text" = "庫存量";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "hTY-g3-Hhh"; */
+"hTY-g3-Hhh.normalTitle" = "確定";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "klx-KY-kMo"; */
+"klx-KY-kMo.text" = "標題";
+
+/* Class = "UITextField"; placeholder = "Discount Price Percentage"; ObjectID = "lJE-TF-6Rq"; */
+"lJE-TF-6Rq.placeholder" = "折扣价百分比";
+
+/* Class = "UITextField"; placeholder = "To"; ObjectID = "laM-CA-lTF"; */
+"laM-CA-lTF.placeholder" = "終止活動日期";
+
+/* Class = "UITextField"; placeholder = "From"; ObjectID = "np2-gL-SMO"; */
+"np2-gL-SMO.placeholder" = "開始活動日期";
+
+/* Class = "UITextField"; placeholder = "Select Category"; ObjectID = "sLW-xV-baZ"; */
+"sLW-xV-baZ.placeholder" = "选择类别";
+
+/* Class = "UILabel"; text = "2020/05/30"; ObjectID = "vok-84-Als"; */
+"vok-84-Als.text" = "2020/05/30";
+
+/* Class = "UILabel"; text = "Lorem Ipsum Lorem Ipsum Lorem Ipsum"; ObjectID = "wDc-jI-XUL"; */
+"wDc-jI-XUL.text" = "Lorem Ipsum Lorem Ipsum Lorem Ipsum";
+
+/* Class = "UITextField"; placeholder = "地區代碼"; ObjectID = "U4W-NA-wV4"; */
+"U4W-NA-wV4.placeholder" = "地區代碼";

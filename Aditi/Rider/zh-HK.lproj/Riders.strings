@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "1bM-ui-6qu"; */
+"1bM-ui-6qu.text" = "现金";
+
+/* Class = "UILabel"; text = "Customer Name"; ObjectID = "9Zz-H9-0U2"; */
+"9Zz-H9-0U2.text" = "客戶名稱";
+
+/* Class = "UILabel"; text = "$ 115"; ObjectID = "Ac2-6Y-gZj"; */
+"Ac2-6Y-gZj.text" = "$ 115";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "CuT-se-oqP"; */
+"CuT-se-oqP.title" = "帳戶";
+
+/* Class = "UITabBarItem"; title = "Inprogress"; ObjectID = "F9a-JI-9BB"; */
+"F9a-JI-9BB.title" = "處理中";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "H3d-WE-hgQ"; */
+"H3d-WE-hgQ.text" = "现金";
+
+/* Class = "UILabel"; text = "Order Time"; ObjectID = "KdC-qb-r2Z"; */
+"KdC-qb-r2Z.text" = "訂單時間";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "OqR-Vm-YSc"; */
+"OqR-Vm-YSc.text" = "现金";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "Q6J-66-8YX"; */
+"Q6J-66-8YX.text" = "電話號碼";
+
+/* Class = "UILabel"; text = "Order Date"; ObjectID = "QBr-np-J63"; */
+"QBr-np-J63.text" = "訂單日期";
+
+/* Class = "UILabel"; text = "Order No"; ObjectID = "QCS-nI-vOn"; */
+"QCS-nI-vOn.text" = "訂單編號";
+
+/* Class = "UILabel"; text = "Order Qty"; ObjectID = "QYG-Ie-JNS"; */
+"QYG-Ie-JNS.text" = "訂單數量";
+
+/* Class = "UILabel"; text = "Delivery Address"; ObjectID = "SMO-Og-ZwY"; */
+"SMO-Og-ZwY.text" = "送貨地址";
+
+/* Class = "UILabel"; text = "Order Total"; ObjectID = "SYR-Vr-4tt"; */
+"SYR-Vr-4tt.text" = "訂單總額";
+
+/* Class = "UITabBarItem"; title = "New"; ObjectID = "Zz0-xv-pOn"; */
+"Zz0-xv-pOn.title" = "新訂單";
+
+/* Class = "UITabBarItem"; title = "Completed"; ObjectID = "duY-6K-s3t"; */
+"duY-6K-s3t.title" = "已完成";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "e6D-ju-eta"; */
+"e6D-ju-eta.normalTitle" = "確定";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "edv-W5-ddk"; */
+"edv-W5-ddk.text" = "现金";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "igQ-kM-0oJ"; */
+"igQ-kM-0oJ.text" = "现金";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "oQz-9P-2VA"; */
+"oQz-9P-2VA.text" = "现金";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "pyd-Pb-PYx"; */
+"pyd-Pb-PYx.text" = "现金";

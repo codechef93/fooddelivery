@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="CartCell" customModule="伴百味" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="374" height="147"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="374" height="147"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem ipsum" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4mA-DF-RgD">
+                        <rect key="frame" x="33" y="8" width="273" height="20.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fOf-8e-KHY">
+                        <rect key="frame" x="0.0" y="6" width="25" height="25"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="25" id="5Xx-Ts-7Vz"/>
+                            <constraint firstAttribute="height" constant="25" id="PQG-IK-enL"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="18"/>
+                        <state key="normal" image="trash">
+                            <color key="titleColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </state>
+                        <connections>
+                            <action selector="deleteBtn:" destination="gTV-IL-0wX" eventType="touchUpInside" id="yxy-N9-ziP"/>
+                        </connections>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" text="$ 110" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vb3-vf-wwB">
+                        <rect key="frame" x="314" y="10" width="60" height="17"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="60" id="O47-ns-8Uz"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="14"/>
+                        <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="lxV-Vv-Xbk" userLabel="detail_container_stackview">
+                        <rect key="frame" x="0.0" y="36" width="374" height="51"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gaJ-WD-sOV">
+                                <rect key="frame" x="0.0" y="0.0" width="374" height="1"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="8xL-hL-IbU"/>
+                                </constraints>
+                            </view>
+                            <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="iG5-rY-W0o" userLabel="detail_sublist_stackview">
+                                <rect key="frame" x="0.0" y="1" width="374" height="50"/>
+                            </stackView>
+                        </subviews>
+                    </stackView>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="lxV-Vv-Xbk" secondAttribute="trailing" id="01h-Jh-qlo"/>
+                <constraint firstItem="lxV-Vv-Xbk" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="2U6-7M-8wn"/>
+                <constraint firstAttribute="trailing" secondItem="vb3-vf-wwB" secondAttribute="trailing" id="6fc-2n-PDl"/>
+                <constraint firstItem="lxV-Vv-Xbk" firstAttribute="top" secondItem="fOf-8e-KHY" secondAttribute="bottom" constant="5" id="6gg-u9-ogc"/>
+                <constraint firstItem="fOf-8e-KHY" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="6" id="FCg-6e-dUQ"/>
+                <constraint firstItem="fOf-8e-KHY" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="6" id="Ip9-oS-xoC"/>
+                <constraint firstItem="vb3-vf-wwB" firstAttribute="leading" secondItem="4mA-DF-RgD" secondAttribute="trailing" constant="8" id="JOx-s5-nti"/>
+                <constraint firstItem="vb3-vf-wwB" firstAttribute="centerY" secondItem="4mA-DF-RgD" secondAttribute="centerY" id="OFS-8x-X0V"/>
+                <constraint firstItem="4mA-DF-RgD" firstAttribute="leading" secondItem="fOf-8e-KHY" secondAttribute="trailing" constant="8" id="Z3F-Kd-0AB"/>
+                <constraint firstItem="4mA-DF-RgD" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="8" id="cGp-LT-12I"/>
+                <constraint firstItem="fOf-8e-KHY" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="gXU-Gv-aRK"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="374" height="147"/>
+            <connections>
+                <outlet property="priceLbl" destination="vb3-vf-wwB" id="pyt-a2-NBv"/>
+                <outlet property="sublist_stackview" destination="iG5-rY-W0o" id="lVI-XH-zui"/>
+                <outlet property="titleLbl" destination="4mA-DF-RgD" id="bDC-4U-Y7r"/>
+            </connections>
+            <point key="canvasLocation" x="-65.217391304347828" y="3.683035714285714"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="trash" width="96" height="96"/>
+    </resources>
+</document>

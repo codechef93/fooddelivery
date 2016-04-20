@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "4Ug-Km-fZC"; */
+"4Ug-Km-fZC.normalTitle" = "登記";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "4iQ-Vk-Azp"; */
+"4iQ-Vk-Azp.placeholder" = "用戶名稱";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "AYq-bd-Tam"; */
+"AYq-bd-Tam.text" = "00:00";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "Ag0-MW-8As"; */
+"Ag0-MW-8As.text" = "登記";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "EBL-5O-hNP"; */
+"EBL-5O-hNP.normalTitle" = "登記";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "HGS-hZ-J4x"; */
+"HGS-hZ-J4x.normalTitle" = "略過";
+
+/* Class = "UITextField"; placeholder = "Telephone"; ObjectID = "LJg-gD-ufM"; */
+"LJg-gD-ufM.placeholder" = "電話號碼";
+
+/* Class = "UILabel"; text = "Agreement on our policy"; ObjectID = "MLl-ib-Zmz"; */
+"MLl-ib-Zmz.text" = "同意伴百味的政策";
+
+/* Class = "UILabel"; text = "Already a member? Login now"; ObjectID = "QYX-Ai-vwC"; */
+"QYX-Ai-vwC.text" = "已有帳戶？馬上登入";
+
+/* Class = "UIButton"; normalTitle = "RESEND CODE"; ObjectID = "SMI-IV-Fqg"; */
+"SMI-IV-Fqg.normalTitle" = "重新發送驗證碼";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "TJh-L5-fry"; */
+"TJh-L5-fry.normalTitle" = "略過";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Xi4-Jw-pem"; */
+"Xi4-Jw-pem.placeholder" = "電子電郵";
+
+/* Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "cWM-Vf-9E6"; */
+"cWM-Vf-9E6.normalTitle" = "校驗";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "guW-mp-aQe"; */
+"guW-mp-aQe.normalTitle" = "登入";
+
+/* Class = "UILabel"; text = "ADITI ADMIN"; ObjectID = "hPU-c7-wNq"; */
+"hPU-c7-wNq.text" = "阿迪提";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "p9C-pf-c53"; */
+"p9C-pf-c53.normalTitle" = "略過";
+
+/* Class = "UILabel"; text = "Already a member? Login now"; ObjectID = "qRF-Lw-h12"; */
+"qRF-Lw-h12.text" = "已有帳戶？馬上登入";
+
+/* Class = "UILabel"; text = "Agreement on receive promotion"; ObjectID = "rMQ-dK-egw"; */
+"rMQ-dK-egw.text" = "接收推廣及通知";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "zNp-zP-tzX"; */
+"zNp-zP-tzX.placeholder" = "電話號碼";

@@ -1,0 +1,79 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Channels",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "active",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "admin.id",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "message.date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Coupons",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "code",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "to",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Messages",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "channelId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Messages",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "channelId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Orders",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "customer.id",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "status",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
